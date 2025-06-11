@@ -1,1 +1,1 @@
-# C-smart-Lusky-Draw_Fujimi_202506
+# C-smart-Lucky-Draw_Fujimi_202506
